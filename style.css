@@ -1,0 +1,156 @@
+body {
+	margin: 0px;
+}
+#wrapper {
+	
+	background-color: #fafafa;
+	width: auto;
+	
+
+}
+
+#header {
+	
+	background-color: #fafafa;
+
+
+	
+}
+#google-logo {
+	height: 44px;
+	width: 120px;
+	float: left;
+	margin: 20px 0px 20px 15px;
+	
+}
+
+.search {
+	background-color: white;
+	display: inline-block;
+	height: 44px;
+	margin: 17px 15px 15px 15px;
+	border: 1px solid lightgray;
+	box-shadow: 1px 1px 1px lightgray;
+	width: 635px;
+	position: relative;
+	
+}
+
+.search:hover {
+	box-shadow: 2px 2px 5px lightgray;
+} 
+
+#userinput {
+	height: 34px;
+	width: 535px;
+	margin-bottom: 30px;
+	border: none;
+	padding: 0px;
+	position: static;
+	vertical-align: middle;
+	text-indent: 15px;
+	font-style: Arial, sans-serif;
+	font-size: 1em;
+	}
+
+#userinput:focus {
+	outline: none;
+}
+
+#button {
+	height: 20px;
+	margin: 10px;
+	background: transparent;
+	
+}
+
+#button2 {
+	height: 20px;
+	margin: 10px;
+	background: transparent;
+	
+}
+
+.user-profile {
+	float: right;
+	list-style: none;
+	display: inline-block;
+	
+}
+
+.profile {
+	list-style: none;
+	display: inline-block;
+	
+	
+	
+}
+
+#u1 {
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	background: #db4437;
+	
+	padding: 2px 1px 0px 1px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	line-height: 18px;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+}
+#u:link {
+		text-decoration: none;
+		color: white;
+	}	
+
+#u:visited {
+		text-decoration: none;
+		color: white;
+	}
+#u:hover {
+		text-decoration: none;
+		color: white;
+		background-color: grey;
+}	
+
+#n1 {
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	background: #db4437;
+	background-size: 2px 2px;
+	margin: 8px 30px 0 15px;
+	padding: 4px 2px 0px 2px;
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	line-height: 26px;
+	color: white;
+	text-align: center;
+	position: relative;
+	display: inline-block;
+}
+
+#n:link {
+		text-decoration: none;
+		color: white;
+	}	
+
+#n:visited {
+		text-decoration: none;
+		color: white;
+	}
+#n:hover {
+		text-decoration: none;
+		color: white;
+	}	
+
+#n1 span {
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 6px;
+	
+}
+
